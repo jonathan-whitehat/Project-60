@@ -1,0 +1,30 @@
+.line{
+    height: 6px;
+    background-color: black;
+    width: auto;
+    margin: 8px;
+}
+
+body{
+    text-align: center;
+}
+
+h1{
+    font-family: monospace;
+    font-size: 40px;
+    font-weight: 300;
+}
+
+#character{
+    width: auto;
+    height: 800px;
+    background-color: dodgerblue;
+}
+
+a{
+    background-color: black;
+}
+
+img{
+    width: 200px;
+}
